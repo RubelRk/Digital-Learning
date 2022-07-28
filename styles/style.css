@@ -21,9 +21,12 @@ body{
     border-radius: 5px;
 }
 /* coures-title + items  */
-.coures-title p, .ps-3 p{
+.coures-title p, .ps-3  p, .accordion-items p,.elearning{
     font-size: 13px;
     color: grey;
+}
+.elearning{
+    background-color: #F4FAFD;
 }
 
 
