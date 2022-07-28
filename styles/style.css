@@ -1,13 +1,14 @@
 /* use font  */
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800&display=swap');
 
+/* body section  */
 body{
     font-family: 'Poppins', sans-serif;
 }
+/* slider images overlay  */
 .image-overlay img{
     height: 600px;
 }
-/* header image  */
 .image-overlay {
     position: relative;
 }
@@ -26,7 +27,7 @@ body{
     font-size: 13px;
     color: grey;
 }
-
+/* Explore The elearning Institute */
 .elearning{
     background-color: #F4FAFD;
 }
@@ -35,6 +36,9 @@ body{
 .brand-logo img{
     width: 150px;
 }
+
+
+/* Happy ending */
 
 
 
